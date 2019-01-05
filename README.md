@@ -1,0 +1,1 @@
+# Contoh-Array-5-inisialisasi-hanya-2-elemen-pertama
